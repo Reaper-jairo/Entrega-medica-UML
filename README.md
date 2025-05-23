@@ -1,1 +1,2 @@
-# Entrega-medica-UML
+**Correcion diagrama caso de uso***
+*List
